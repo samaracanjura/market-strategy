@@ -18,4 +18,6 @@ pip install networkx matplotlib
 ```
 ## How to Run: 
 From the terminal, run: 
+```bash
 python market_strategy.py market.gml --plot --interactive
+```
