@@ -1,4 +1,4 @@
-# Market and Stratefgic Interaction in Network
+# Market and Strategic Interaction in Network
 
 ## Description
 This project implements a market-clearing algorthim using a bipartitie graph described in the market.gml file. 
